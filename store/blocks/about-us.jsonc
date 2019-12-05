@@ -121,7 +121,7 @@
     },
     "tab-list.item#home2" : {
         "props": {
-            "label": "Electronics",
+            "label": "Instagram",
             "tabId": "electronics"
         }
     },
@@ -143,7 +143,7 @@
 
     "tab-content.item#home2": {
         "children": [
-            "rich-text#home2"
+            "iframe"
         ],
         "props": {
             "tabId": "electronics"

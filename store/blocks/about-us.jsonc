@@ -136,7 +136,7 @@
             "rich-text#home1"
         ],
         "props": {
-            "tabId": "tab-content.item"
+            "tabId": "majorAppliances"
         }
     },
 
@@ -145,7 +145,7 @@
             "rich-text#home2"
         ],
         "props": {
-            "tabId": "tab-content.item"
+            "tabId": "electronics"
         }
     },
     "rich-text#home1": {

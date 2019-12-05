@@ -15,6 +15,9 @@
         }
     },
     "image#landingbanner": {
-       
+        "props": {
+            "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+            "minWidth": "100%"
+          }
       }
   }

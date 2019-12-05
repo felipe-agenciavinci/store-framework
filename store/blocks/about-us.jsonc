@@ -113,14 +113,14 @@
     },
     "tab-list.item#home1" : {
         "props": {
-            "text": "Major Appliances",
+            "label": "Major Appliances",
             "tabId": "majorAppliances",
             "defaultActiveTab" : true
         }
     },
     "tab-list.item#home2" : {
         "props": {
-            "text": "Electronics",
+            "label": "Electronics",
             "tabId": "electronics"
         }
     },
